@@ -1,4 +1,4 @@
-## 🍵 Welcome, it's gaogao here, feel free to check out my work~
+## 🍵 Welcome, it's gaogao here. Feel free to check out my work~
 
 ### ✨ About me
 
