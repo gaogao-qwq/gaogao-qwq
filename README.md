@@ -3,7 +3,7 @@
 ### ✨ About me
 
 - 📖 I am an undergraduate student majoring in software engineering.
-- 📝 I would share some interesting stuff on my[blog](https://blog.gaogaoqwq.com) sometimes.
+- 📝 I would share some interesting stuff on my [blog](https://blog.gaogaoqwq.com) sometimes.
 - ⚙️ I use VSCode, Visual Studio, Jetbrains and Vim/NeoVim as my IDE.
 - 📞 I often active on QQ (1137058302), Wechat (gaogao_cccp), discord (gaogao_qwq#9332) and [steam](https://steamcommunity.com/id/gaogao_qwq).
 - 💬 Ping me about **Backend, Linux, RaspberryPi, and everything about rhythm game** 🕹️.
