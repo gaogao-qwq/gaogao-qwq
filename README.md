@@ -17,48 +17,39 @@
   - [x] Basic
   - [x] Advanced
   - [x] Qt
-  - [ ] Embedded
+  - [x] Embedded
 - Rust
 
   - [x] Basic
-  - [ ] Advanced
-  - [ ] Embedded
-  - [ ] Web & Server app
 - Java
   
   - [x] Basic
-  - [ ] Advanced
-  - [ ] Android
-  - [ ] Spring
+  - [x] Android
+  - [ ] Spring (Still Learning...)
+- Flutter & Dart
+
+  - [ ] Basic (Still Learning...)
 - Go
   
-	- [x] Basic
-	- [ ] Advanced
-	- [ ] Web & Server app
+  - [x] Basic
+  - [ ] Web & Server app (Still Learning...)
 - C#
 
-	- [x] Basic 
-	- [ ] Advanced
-	- [x] Unity
-	- [ ] Client app
-	- [ ] ASP.NET
-- Python
+  - [x] Basic 
+  - [x] Unity
+ - Python
   
   - [x] Basic
-  - [ ] Web crawler & Data science
 - Javascript
   
-	- [x] Basic
-	- [x] Frontend (HTML, CSS)
-	- [ ] Node.js
-	- [ ] Vue
-	- [ ] React
+  - [x] Basic
+  - [x] Frontend (HTML, CSS)
 - SQL
   
-	- [x] MySQL
+  - [x] MySQL
 - Bash
   
-	- [x] Basic
+  - [x] Basic
 - Kotlin (Plan to learn)
 - RISC-V Assembly (Plan to learn)
 - Swift/SwiftUI (Plan to learn)
