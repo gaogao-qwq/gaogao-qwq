@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cs,py,unity,cmake,rust,go,flutter,java,gradle,androidstudio,html,css,js,ts,mysql,markdown" />
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cmake,cs,unity,py,rust,go,flutter,java,gradle,androidstudio,html,css,js,ts,mysql,markdown" />
   </a>
 </p>
 
