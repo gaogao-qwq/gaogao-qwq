@@ -27,7 +27,7 @@
 
 #### 🔤 Natural language
 - **Chinese (mother language)**
-- English	(CET-4)
+- English	(CET-6)
 - Japanese (Plan to learn)
 
 
