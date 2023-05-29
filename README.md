@@ -35,7 +35,7 @@
 <summary>My git stats</summary>
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gaogao-qwq&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaogao-qwq&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaogao-qwq&layout=compact&theme=tokyonight&count_private=true&hide_border=true&hide=html)</a>
 
 </details>
 
