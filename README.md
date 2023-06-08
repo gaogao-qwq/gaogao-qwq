@@ -9,15 +9,13 @@
 
 ### 💻 My tech stack
 
-#### 👨‍💻 Programming language
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cmake,cs,unity,py,rust,go,dart,flutter,java,spring,maven,gradle,androidstudio,html,css,js,ts,vite,vue,mysql,markdown" />
   </a>
 </p>
 
-#### Currently using IDEs
+### Currently using IDEs
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +23,7 @@
   </a>
 </p>
 
-#### 🔤 Natural language
+### 🔤 Natural language
 - **Chinese (mother language)**
 - English	(CET-6)
 - Japanese (Plan to learn)
