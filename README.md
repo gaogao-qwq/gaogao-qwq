@@ -1,5 +1,9 @@
 ## 🍵 Welcome, it's gaogao here. Feel free to check out my work~
 
+<a href="https://discord.com/users/439766898184552448">
+  <img align="right" src="https://lanyard.cnrad.dev/api/439766898184552448" />
+</a>
+
 ### ✨ About me
 
 - 📖 I am an undergraduate student majoring in software engineering.
@@ -28,12 +32,5 @@
 - English	(CET-6)
 - Japanese (Plan to learn)
 
-
-<details>
-<summary>My git stats</summary>
-
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gaogao-qwq&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaogao-qwq&layout=compact&theme=tokyonight&count_private=true&hide_border=true&hide=html)</a>
-
-</details>
-
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gaogao-qwq&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaogao-qwq&layout=compact&theme=tokyonight&count_private=true&hide_border=true&hide=html)</a>
