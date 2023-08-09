@@ -11,8 +11,6 @@
 - 📞 I often active on QQ (1137058302), Wechat (gaogao_cccp), [discord](https://discordapp.com/users/439766898184552448) and [steam](https://steamcommunity.com/id/gaogao_qwq).
 - 💬 Ping me about **Backend, Linux, RaspberryPi, and everything about rhythm game** 🕹️.
 
-<a href="#">![cider](https://browsersource.cider.software/pill/e14046e6-4d88-422a-859b-dea77516b498?hideplaybackbar=false&hidelogo=false&color=undefined)</a>
-
 ### 💻 My tech stack
 
 <p align="center">
