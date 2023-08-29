@@ -8,8 +8,11 @@
 
 - 📖 I am an undergraduate student majoring in software engineering.
 - 📝 I would share some interesting stuff on my [blog](https://blog.gaogaoqwq.com) sometimes.
-- 📞 I often active on QQ (1137058302), Wechat (gaogao_cccp), [discord](https://discordapp.com/users/439766898184552448) and [steam](https://steamcommunity.com/id/gaogao_qwq).
-- 💬 Ping me about **Backend, Linux, RaspberryPi, and everything about rhythm game** 🕹️.
+- 📞 I often active on QQ (1137058302), WeChat (gaogao_cccp), [discord](https://discordapp.com/users/439766898184552448) and [steam](https://steamcommunity.com/id/gaogao_qwq).
+- 💬 Ping me about **Backend, Linux, Raspberry Pi, and everything about rhythm game** 🕹️.
+
+### 🔐 My PGP fingerprint
+`A1B2 C3D4 E5F6 7890 1234 5678 9ABC DEF0 1234 5678`
 
 ### 💻 My tech stack
 
@@ -32,5 +35,5 @@
 - English	(CET-6)
 - Japanese (Plan to learn)
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gaogao-qwq&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaogao-qwq&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaogao-qwq&layout=compact&theme=tokyonight&count_private=true&hide_border=true&hide=html)</a>
