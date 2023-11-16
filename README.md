@@ -1,7 +1,7 @@
 ## 🍵 Welcome, it's gaogao here. Feel free to check out my work~
 
 <a href="https://discord.com/users/439766898184552448">
-  <img align="right" src="https://lanyard.cnrad.dev/api/439766898184552448" />
+  <img align="right" src="https://lanyard.cnrad.dev/api/439766898184552448"/>
 </a>
 
 ### ✨ About me
@@ -17,16 +17,26 @@
 ### 💻 My tech stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cmake,cs,unity,py,rust,go,dart,flutter,java,spring,maven,gradle,androidstudio,html,css,js,ts,vite,vue,mysql,markdown" />
+  <a href="https://github.com/gaogao-qwq">
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cmake,cs,unity,py,rust,go,dart,flutter,java,spring,maven,gradle,androidstudio,html,css,js,ts,vite,vue,mysql,markdown"/>
   </a>
 </p>
 
-### Currently using IDEs
+### Currently using OS
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea" />
+  <a href="https://github.com/gaogao-qwq">
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Linux" title="Linux"/>
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+  </a>
+</p>
+
+### ⌨️ Currently using IDEs
+
+<p align="center">
+  <a href="https://github.com/gaogao-qwq">
+    <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea"/>
   </a>
 </p>
 
