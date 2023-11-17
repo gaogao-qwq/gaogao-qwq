@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### Currently using OS
+### 💽 Currently using OS
 
 <p align="center">
   <a href="https://github.com/gaogao-qwq">
