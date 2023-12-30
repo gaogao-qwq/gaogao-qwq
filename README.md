@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/gaogao-qwq">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cmake,cs,unity,py,rust,go,dart,flutter,java,spring,maven,gradle,androidstudio,html,css,js,ts,vite,vue,mysql,markdown"/>
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,c,cpp,qt,cmake,dotnet,cs,unity,py,rust,go,dart,flutter,java,spring,maven,gradle,androidstudio,html,css,js,ts,nodejs,vite,vue,mysql,markdown"/>
   </a>
 </p>
 
