@@ -3,6 +3,9 @@
 <a href="https://discord.com/users/439766898184552448">
   <img align="right" src="https://lanyard.cnrad.dev/api/439766898184552448"/>
 </a>
+<a href="https://wakatime.com/@036018d5-953c-42d7-a081-803785bbb70f">
+  <img src="https://wakatime.com/badge/user/036018d5-953c-42d7-a081-803785bbb70f.svg" alt="Total time coded since Jun 12 2023" />
+</a>
 
 ### ✨ About me
 
