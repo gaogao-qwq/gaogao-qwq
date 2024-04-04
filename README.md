@@ -25,21 +25,15 @@
   </a>
 </p>
 
-### 💽 Currently using OS
+### 💽 Currently using OS & tools
 
 <p align="center">
   <a href="https://github.com/gaogao-qwq">
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Linux" title="Linux"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-  </a>
-</p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Arch-blue?style=for-the-badge&logo=archlinux&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macos&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NeoVim-blue?style=for-the-badge&logo=neovim&logoColor=green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GNU_Emacs-purple?style=for-the-badge&logo=gnuemacs&logoColor=white">
 
-### ⌨️ Currently using IDEs
-
-<p align="center">
-  <a href="https://github.com/gaogao-qwq">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea"/>
   </a>
 </p>
 
